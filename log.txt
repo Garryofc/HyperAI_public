@@ -1,0 +1,132 @@
+2022-12-30 21:04:06,364 logging in using static token
+2022-12-30 21:04:06,760 Shard ID None has sent the IDENTIFY payload.
+2022-12-30 21:04:06,969 Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-j6g8",{"micros":92774,"calls":["id_created",{"micros":1716,"calls":[]},"session_lookup_time",{"micros":383,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-blue-prd-2-96",{"micros":89733,"calls":["start_session",{"micros":59244,"calls":["discord-api-79d6c84d84-qcfkr",{"micros":49866,"calls":["get_user",{"micros":12150},"get_guilds",{"micros":7375},"send_scheduled_deletion_message",{"micros":42},"guild_join_requests",{"micros":131},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":63,"calls":[]},"presence_started",{"micros":359,"calls":[]},"guilds_started",{"micros":94,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":29922,"calls":[]},"connect_finished",{"micros":29927,"calls":[]},"build_ready",{"micros":19,"calls":[]},"optimize_ready",{"micros":24,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":1,"calls":[]}]}]}] (Session ID: f25f9c59f34f717593c544fc75b43ac1).
+2022-12-30 21:12:36,574 logging in using static token
+2022-12-30 21:12:36,972 Shard ID None has sent the IDENTIFY payload.
+2022-12-30 21:12:37,259 Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-5lhn",{"micros":166807,"calls":["id_created",{"micros":924,"calls":[]},"session_lookup_time",{"micros":673,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-blue-prd-2-85",{"micros":164787,"calls":["start_session",{"micros":93604,"calls":["discord-api-79d6c84d84-dbxr7",{"micros":72006,"calls":["get_user",{"micros":11879},"get_guilds",{"micros":7503},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":5058},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":51,"calls":[]},"presence_started",{"micros":21251,"calls":[]},"guilds_started",{"micros":94,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":49735,"calls":[]},"connect_finished",{"micros":49740,"calls":[]},"build_ready",{"micros":24,"calls":[]},"optimize_ready",{"micros":21,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 6c6923abea586e01e3d4c831551afbb5).
+2022-12-30 21:17:14,758 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:17:19,870 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=4577 request_id=5db13330b0ea19db843e771fe4788da5 response_code=200
+2022-12-30 21:17:37,026 logging in using static token
+2022-12-30 21:17:37,547 Shard ID None has sent the IDENTIFY payload.
+2022-12-30 21:17:37,799 Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-rnd2",{"micros":138630,"calls":["id_created",{"micros":1418,"calls":[]},"session_lookup_time",{"micros":308,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-blue-prd-2-211",{"micros":136130,"calls":["start_session",{"micros":107446,"calls":["discord-api-79d6c84d84-nsf9j",{"micros":95012,"calls":["get_user",{"micros":24516},"get_guilds",{"micros":6649},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2580},"authorized_ip_coro",{"micros":12}]}]},"starting_guild_connect",{"micros":73,"calls":[]},"presence_started",{"micros":264,"calls":[]},"guilds_started",{"micros":76,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":28214,"calls":[]},"connect_finished",{"micros":28220,"calls":[]},"build_ready",{"micros":25,"calls":[]},"optimize_ready",{"micros":24,"calls":[]},"split_ready",{"micros":0,"calls":[]},"clean_ready",{"micros":1,"calls":[]}]}]}] (Session ID: bfcdea9a308028fd4c9deb140861bf25).
+2022-12-30 21:20:11,722 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:20:17,282 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=5081 request_id=3318b20a4916edd51140c7d7792245e1 response_code=200
+2022-12-30 21:20:17,284  Author = Garry#5555 ; Message:  ; Response: 
+To learn to use the environment, the agent is put in a predefined environment and iteratively explores the various options and learns how to use the environment. In this way, the agent will be able to interact with the environment, observe its state, and learn from it in order to determine the optimal strategy. The agent's goal is to maximize its rewards, which can be achieved by exploring the environment and learning from it.
+
+The agent can also use reinforcement learning to learn how to interact with the environment. In this type of learning, the agent is rewarded when it takes a successful action, and punished when it takes an unsuccessful action. The agent then uses this feedback to modify its behavior to try and maximize its rewards. This type of learning is often used in robotics and AI applications.
+2022-12-30 21:20:44,614 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:20:46,066 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=1245 request_id=109574457c9d5ea7daa1a516e75ac91b response_code=200
+2022-12-30 21:20:46,066  Author = matyas_kamo#8192 ; Message: kdy se narodil zeman ; Response: 
+Miloš Zeman se narodil 28. øíjna 1944 v Kladnì.
+2022-12-30 21:21:50,708 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:21:51,775 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=877 request_id=d3d05bf847b9f98e4db71d0febf5dcc8 response_code=200
+2022-12-30 21:21:51,775  Author = matyas_kamo#8192 ; Message: jak se máš ; Response: 
+Mám se dobøe, dìkuji. A co ty?
+2022-12-30 21:22:01,574 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:22:07,794 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=6063 request_id=ec043442752c613283b1e453868f2358 response_code=200
+2022-12-30 21:22:07,794  Author = matyas_kamo#8192 ; Message: Dobøe ; Response: 
+Dobøe, sdílíme stejný názor. Pokud hledáte zpùsob, jak zaèít, doporuèil bych zaèít udìlat nìjaký domácí výzkum a zjistit, jaké další zdroje mùžete využít, jako jsou online kurzy, knihy o financích nebo dokonce i odborníci, na které se mùžete obrátit a poradit. Pokud vám mùj názor pomohl, byl bych rád, kdybyste se podìlili o vaše postøehy a po
+2022-12-30 21:24:37,544 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:24:38,601 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=515 request_id=56b83f1f910833a8a8fabaffccbccde2 response_code=200
+2022-12-30 21:24:38,601  Author = matyas_kamo#8192 ; Message: vypoèítej 100×10 ; Response: 
+1000
+2022-12-30 21:24:51,473 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:24:52,394 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=708 request_id=e161e1449253758926f77035059b83e6 response_code=200
+2022-12-30 21:24:52,394  Author = matyas_kamo#8192 ; Message: 1000×100 ; Response: 
+1,000  × 100 = 100,000
+2022-12-30 21:25:56,946 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:26:03,243 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=6102 request_id=ba7071a1204fe00a74a1588d58f66a5c response_code=200
+2022-12-30 21:26:03,243  Author = matyas_kamo#8192 ; Message:  ; Response:     BOOL has_node_data; 
+
+    /* Private data to overlay node */
+    INT32 color;        
+    INT32 level;
+
+
+  public:
+    /***************************************/
+    /* Construct, copy and Destrutor       */
+    /***************************************/
+    B_listHashTblEntry() { 
+      has_node_data = FALSE;
+    }
+    ~B_listHashTblEntry() {};
+
+    void clear() {
+      has_node_data = FALSE;
+    }
+
+    B_listHashTblEntry(const B_listHashTblEntry &that) {
+       copy(that);
+    }
+    B_listHashTblEntry & B_listHashTblEntry::operator=(
+                  const B_listHashTblEntry &that) {
+       if (this != &that) {
+          clear();
+
+2022-12-30 21:27:29,168 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:27:30,756 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=1067 request_id=a0398fea92fac49903cfbd605d722383 response_code=200
+2022-12-30 21:27:30,756  Author = matyas_kamo#8192 ; Message:  ; Response: }
+
+//SetRepoState sets the state for the project
+func SetRepoState(state stateModel.RepoState)
+2022-12-30 21:30:32,351 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:30:38,941 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=6051 request_id=b642300b73652628a6b107955ba684d0 response_code=200
+2022-12-30 21:30:38,942  Author = matyas_kamo#8192 ; Message:  ; Response:       return false;
+    };
+  };
+
+  var checkForMatch = function(userSelection, computerSelection) {
+    if (userSelection === computerSelection) {
+      return "The result is a tie!";
+    } else if (userSelection === 'paper' && computerSelection === 'rock' || userSelection === 'rock' && computerSelection === 'scissors' || userSelection === 'scissors' && computerSelection === 'paper') {
+        return "You win!";
+    } else {
+      return "You lose! Try again."
+    }
+  };
+
+  var playGame = function() {
+  var userInput = userChoice();
+  var compInput = computerChoice();
+  var results = checkForMatch(userInput, compInput);
+  console.log("Computer chose " + compInput + " and you chose " + userInput
+2022-12-30 21:30:49,458 logging in using static token
+2022-12-30 21:30:49,804 Shard ID None has sent the IDENTIFY payload.
+2022-12-30 21:30:50,011 Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-vtc2",{"micros":95136,"calls":["id_created",{"micros":3016,"calls":[]},"session_lookup_time",{"micros":339,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-blue-prd-2-171",{"micros":91303,"calls":["start_session",{"micros":56667,"calls":["discord-api-79d6c84d84-slzpf",{"micros":46415,"calls":["get_user",{"micros":8100},"get_guilds",{"micros":5698},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":15}]}]},"starting_guild_connect",{"micros":62,"calls":[]},"presence_started",{"micros":1817,"calls":[]},"guilds_started",{"micros":146,"calls":[]},"guilds_connect",{"micros":13,"calls":[]},"presence_connect",{"micros":32572,"calls":[]},"connect_finished",{"micros":32588,"calls":[]},"build_ready",{"micros":20,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 9528a4a1f12bd946847ece72aa4b8e96).
+2022-12-30 21:31:07,016 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:31:14,366 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=6863 request_id=1dd7c203c9ec4dbab1adfa49598f65d6 response_code=200
+2022-12-30 21:31:14,368  Author = matyas_kamo#8192 ; Message:  ; Response:             return d
+        }
+    }, this.array = function (a) {
+        for (var d = {}, b = 0; b < a.length; b++) if (a[b].length == 2) {
+            var c = a[b][0], e = a[b][1];
+            d[c] = e
+        }
+        return d
+    }, this.number = function (a, d, b) {
+        d = this.voidFn(d);
+        b = this.voidFn(b);
+        var c = {};
+        c[a] = [d, b];
+        return c
+    }
+};
+typeof jQuery == "function" && (jQuery.fn.jqueryCheckContent = function (b) {
+    var a = 0;
+    this.each(function () {
+        var d = new jQuery
+2022-12-30 21:31:33,459 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:31:34,329 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=705 request_id=154bbde6e1eed59544d8ce84cbf89d5c response_code=200
+2022-12-30 21:31:34,329  Author = matyas_kamo#8192 ; Message:  ; Response: 
+2022-12-30 21:32:38,265 message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/text-davinci-003/completions
+2022-12-30 21:32:39,320 message='OpenAI API response' path=https://api.openai.com/v1/engines/text-davinci-003/completions processing_ms=841 request_id=fd295af827c31c2a79fc94e244094216 response_code=200
+2022-12-30 21:32:39,320  Author = Garry#5555 ; Message: ahoj ; Response: 
+Hello!
+2022-12-31 11:04:57,030 logging in using static token
+2022-12-31 11:04:57,408 Shard ID None has sent the IDENTIFY payload.
+2022-12-31 11:04:57,677 Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-x6bq",{"micros":161082,"calls":["id_created",{"micros":1080,"calls":[]},"session_lookup_time",{"micros":293,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-blue-prd-2-54",{"micros":159169,"calls":["start_session",{"micros":96238,"calls":["discord-api-79d6c84d84-9s4v2",{"micros":84841,"calls":["get_user",{"micros":22515},"get_guilds",{"micros":5669},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":3454},"authorized_ip_coro",{"micros":7}]}]},"starting_guild_connect",{"micros":56,"calls":[]},"presence_started",{"micros":43876,"calls":[]},"guilds_started",{"micros":149,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":18825,"calls":[]},"connect_finished",{"micros":18830,"calls":[]},"build_ready",{"micros":17,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]},"clean_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 4a281d217e1398f30fe3414f57a6b10f).
+2022-12-31 22:48:32,646 logging in using static token
+2022-12-31 22:48:32,999 Shard ID None has sent the IDENTIFY payload.
+2022-12-31 22:48:33,220 Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-5ppp",{"micros":111018,"calls":["id_created",{"micros":1003,"calls":[]},"session_lookup_time",{"micros":346,"calls":[]},"session_lookup_finished",{"micros":30,"calls":[]},"discord-sessions-blue-prd-2-24",{"micros":109294,"calls":["start_session",{"micros":42833,"calls":["discord-api-79d6c84d84-2s5xb",{"micros":35395,"calls":["get_user",{"micros":14025},"get_guilds",{"micros":3319},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":56,"calls":[]},"presence_started",{"micros":34813,"calls":[]},"guilds_started",{"micros":139,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":31423,"calls":[]},"connect_finished",{"micros":31429,"calls":[]},"build_ready",{"micros":20,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 8f667b33a34c097ca2810224577b89ef).
