@@ -15,7 +15,7 @@ colorama.init()
 #clients
 client = discord.Client()
 client = commands.Bot(command_prefix="!")
-openai.api_key = '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'
+openai.api_key = ''
 logging.basicConfig(filename="log.txt", level=logging.INFO,
                     format="%(asctime)s %(message)s")
 
@@ -55,4 +55,4 @@ async def on_message(message):
 
     await message.channel.send(response)
     
-client.run('OTY0Nzg4MjQxMzY0NTY2MDY5.GxDe2O.gq3iwC6kGyscewcKWunhWPgnjG-nK9vjbHS_CM')
+client.run('')
